@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  EARTH GUARDIAN.cpp
+g:\민용파일\programming\c언어\c언어projects\1-2 earth guardian 소스\earth guardian\earth guardian.cpp(19): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+g:\민용파일\programming\c언어\c언어projects\1-2 earth guardian 소스\earth guardian\earth guardian.cpp(256): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+g:\민용파일\programming\c언어\c언어projects\1-2 earth guardian 소스\earth guardian\earth guardian.cpp(264): warning C4101: 'enemyKillCheck' :참조되지 않은 지역 변수입니다.
+  EARTH GUARDIAN.vcxproj -> G:\민용파일\Programming\C언어\C언어Projects\1-2 EARTH GUARDIAN 소스\x64\Debug\EARTH GUARDIAN.exe
+  EARTH GUARDIAN.vcxproj -> G:\민용파일\Programming\C언어\C언어Projects\1-2 EARTH GUARDIAN 소스\x64\Debug\EARTH GUARDIAN.pdb (Partial PDB)

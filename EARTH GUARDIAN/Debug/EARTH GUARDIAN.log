@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  EARTH GUARDIAN.cpp
+e:\바탕화면\earth guardian\earth guardian\earth guardian.cpp(19): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+e:\바탕화면\earth guardian\earth guardian\earth guardian.cpp(256): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+e:\바탕화면\earth guardian\earth guardian\earth guardian.cpp(264): warning C4101: 'enemyKillCheck': unreferenced local variable
+  EARTH GUARDIAN.vcxproj -> E:\바탕화면\EARTH GUARDIAN\Debug\EARTH GUARDIAN.exe
+  EARTH GUARDIAN.vcxproj -> E:\바탕화면\EARTH GUARDIAN\Debug\EARTH GUARDIAN.pdb (Full PDB)
